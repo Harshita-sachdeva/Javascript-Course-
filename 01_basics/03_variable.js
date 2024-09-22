@@ -42,3 +42,21 @@ console.log(stringNumber);
 console.log(typeof stringNumber);
 
 
+// *************** OPERATIONS ****************
+
+
+let value=3
+let negvalue=-value
+console.log(negvalue);
+
+let str1="hello"
+let str2="harshita"
+// console.log(str1+str2)
+
+
+// console.log("1"+2)
+// console.log(1+"2")
+// console.log("1"+2+2)
+// console.log(1+2+"2")
+
+
